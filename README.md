@@ -5,7 +5,7 @@
 
 🛠️ Tech Stack:
 
-💡 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+💡 Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS
 
 🔧 Backend: Node.js, Express.js
 
