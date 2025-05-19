@@ -1,12 +1,12 @@
 👋 Hi, I'm Ahmed Zubair Memon
 
-💻 A dedicated Full Stack Web Developer with a strong passion for building modern, responsive, and user-centric web applications.
+💻 A dedicated Full Stack Developer with a strong passion for building modern, responsive, and user-centric applications.
 
 🚀 I specialize in designing and developing solutions that are clean, efficient, and performance-driven — from frontend interfaces to backend architecture.
 
 🛠️ Tech Stack:
 
-💡 Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS
+💡 Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
 
 🔧 Backend: Node.js, Express.js
 
