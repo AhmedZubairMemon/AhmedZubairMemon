@@ -15,7 +15,7 @@
 📁 Version Control & Deployment: Git, GitHub
 
 📌 Always learning, always building — committed to growing as a developer and creating meaningful digital experiences.
-<div style="display: flex; align-items: center; gap: 30px;">
+<div style="display: flex; align-items: center; justify-content:space-around;">
 <p>Connect with me:</p>
 <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" style="margin-right:10px;">
