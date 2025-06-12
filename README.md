@@ -12,7 +12,7 @@
 
 💾 Database: MongoDB
 
-📁 Version Control & Deployment: Git, GitHub
+📁 Version Control & Deployment: Git, GitHub, Vercel, Netlify
 
 📌 Always learning, always building — committed to growing as a developer and creating meaningful digital experiences.
 <div style="display: flex; align-items: center; justify-content:space-around;">
