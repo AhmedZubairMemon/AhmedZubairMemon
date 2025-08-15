@@ -6,13 +6,13 @@
 
 🛠️ Tech Stack:
 
-💡 Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+💡 Frontend: HTML, CSS, JavaScript, React.js, React Native, Tailwind CSS, Material Ui
 
 🔧 Backend: Node.js, Express.js
 
 💾 Database: MongoDB
 
-📁 Version Control & Deployment: Git, GitHub, Vercel, Netlify
+📁 Version Control & Deployment: Git, GitHub, Vercel, Netlify, Railway
 
 📌 Always learning, always building — committed to growing as a developer and creating meaningful digital experiences.
 <div style="display: flex; align-items: center; justify-content:space-around;">
