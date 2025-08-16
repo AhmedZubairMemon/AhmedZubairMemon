@@ -6,7 +6,7 @@
 
 🛠️ Tech Stack:
 
-💡 Frontend: HTML, CSS, JavaScript, React.js, React Native, Tailwind CSS, Material Ui
+💡 Frontend: HTML, CSS, JavaScript, React, Next.js React Native, Tailwind CSS, Material Ui
 
 🔧 Backend: Node.js, Express.js
 
