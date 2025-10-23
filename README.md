@@ -41,5 +41,6 @@ I’m always open to collaboration, remote projects, and freelance opportunities
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30">
   </a>
 </div>
+
 ⚡ Motto
 “Keep learning. Keep building. Keep growing.”
