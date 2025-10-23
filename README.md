@@ -30,17 +30,16 @@ Next.js (Advanced Concepts), React Native, and Cloud Deployment Optimization
 
 I’m always open to collaboration, remote projects, and freelance opportunities.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin: 0 10px;">
+<div align="center" style="margin-top: 30px;">
+  <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
   </a>
-  <a href="https://www.instagram.com/Ahmed_zubair_memon" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/Ahmed_zubair_memon" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30">
   </a>
-  <a href="https://www.facebook.com/ahmedzubair.memon?mibextid=ZbWKwL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30" style="margin: 0 10px;">
+  <a href="https://www.facebook.com/ahmedzubair.memon?mibextid=ZbWKwL" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30">
   </a>
-</p>
-
+</div>
 ⚡ Motto
 “Keep learning. Keep building. Keep growing.”
