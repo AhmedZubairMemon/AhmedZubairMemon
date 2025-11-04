@@ -5,9 +5,7 @@
 I’m a passionate developer focused on building modern, responsive, and user-friendly web & mobile applications.
 I love turning ideas into reality through clean code, scalable architecture, and intuitive design.
 
-🚀 What I Do
-
-Develop full stack applications using the MERN stack (MongoDB, Express, React, Node.js).
+🚀 What I Do Develop full stack applications using the MERN stack (MongoDB, Express, React, Node.js).
 
 Build cross-platform mobile apps using React Native.
 
