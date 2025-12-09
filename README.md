@@ -1,6 +1,6 @@
 👋 Hi, I'm Ahmed Zubair Memon
 
-💻 Full Stack Developer | MERN Stack | React & Next.js Enthusiast
+💻 Full Stack Developer | MERN Stack 
 
 I’m a passionate developer focused on building modern, responsive, and user-friendly web & mobile applications.  
 I love turning ideas into reality through clean code, scalable architecture, and intuitive design.
