@@ -12,7 +12,7 @@ I love turning ideas into reality through clean code, scalable architecture, and
 - Deploy production-ready apps on platforms like Vercel, Netlify, and Railway.
 
 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, React Native, Tailwind CSS, Material UI  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Material UI  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Railway
