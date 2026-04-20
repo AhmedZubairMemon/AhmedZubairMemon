@@ -1,27 +1,39 @@
 👋 Hi, I'm Ahmed Zubair Memon
 
-💻 Full Stack Developer | MERN Stack 
+💻 Full Stack Developer | MERN Stack
 
-I’m a passionate developer focused on building modern, responsive, and user-friendly web & mobile applications.  
-I love turning ideas into reality through clean code, scalable architecture, and intuitive design.
+I’m a passionate developer focused on building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real-world projects using clean code, scalable architecture, and intuitive UI design.
+
+---
 
 🚀 What I Do
-- Develop full stack applications using the MERN stack (MongoDB, Express, React, Node.js).  
-- Build cross-platform mobile apps using React Native.  
-- Create SEO-friendly web apps with Next.js for better visibility.  
-- Deploy production-ready apps on platforms like Vercel, Netlify, and Railway.
+
+- Develop full stack web applications using the MERN stack (MongoDB, Express, React, Node.js)
+- Build modern and responsive frontend interfaces with React.js
+- Create SEO-friendly and fast web apps using Next.js
+- Deploy production-ready applications on platforms like Vercel, Netlify, and Railway
+
+---
 
 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Material UI  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Railway
+
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Material UI  
+Backend: Node.js, Express.js  
+Database: MongoDB  
+Version Control & Deployment: Git, GitHub, Vercel, Netlify, Railway  
+
+---
 
 📈 Currently Learning
-- Next.js (Advanced Concepts), React Native, and Cloud Deployment Optimization
+
+Next.js (Advanced Concepts), Backend Optimization, and Scalable Full Stack Architecture
+
+---
 
 💬 Let's Connect
-I’m always open to collaboration, remote projects, and freelance opportunities.
+
+I’m open to collaboration, remote opportunities, and freelance projects.  
 
 <div align="center" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank" style="margin: 0 15px;">
