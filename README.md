@@ -5,16 +5,12 @@
 I’m a passionate developer focused on building modern, responsive, and user-friendly web applications.  
 I enjoy turning ideas into real-world projects using clean code, scalable architecture, and intuitive UI design.
 
----
-
 🚀 What I Do
 
 - Develop full stack web applications using the MERN stack (MongoDB, Express, React, Node.js)
 - Build modern and responsive frontend interfaces with React.js
 - Create SEO-friendly and fast web apps using Next.js
-- Deploy production-ready applications on platforms like Vercel, Netlify, and Railway
-
----
+- Deploy production-ready applications on Vercel, Netlify, and Railway
 
 🛠️ Tech Stack
 
@@ -23,17 +19,13 @@ Backend: Node.js, Express.js
 Database: MongoDB  
 Version Control & Deployment: Git, GitHub, Vercel, Netlify, Railway  
 
----
-
 📈 Currently Learning
 
 Next.js (Advanced Concepts), Backend Optimization, and Scalable Full Stack Architecture
 
----
-
 💬 Let's Connect
 
-I’m open to collaboration, remote opportunities, and freelance projects.  
+I’m open to collaboration, remote opportunities, and freelance projects.
 
 <div align="center" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank" style="margin: 0 15px;">
