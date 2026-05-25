@@ -31,9 +31,9 @@ I’m open to collaboration, remote opportunities, and freelance projects.
   <a href="https://www.linkedin.com/in/ahmed-zubair-memon-8ba401317/" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
   </a>
-  <a href="https://ahmed-zubair-memon.vercel.app" target="_blank" style="margin: 0 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Portfolio" width="30">
-</a>
+ <a href="https://ahmed-zubair-memon.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/Ahmed_zubair_memon" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30">
   </a>
