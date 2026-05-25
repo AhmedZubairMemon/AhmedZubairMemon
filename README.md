@@ -32,7 +32,7 @@ I’m open to collaboration, remote opportunities, and freelance projects.
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
   </a>
 <a href="https://ahmed-zubair-memon.vercel.app" target="_blank">
-  🌐 Portfolio
+  🌐
 </a>
   <a href="https://www.instagram.com/Ahmed_zubair_memon" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30">
