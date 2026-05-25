@@ -30,6 +30,7 @@ Version Control & Deployment: Git, GitHub, Vercel, Netlify, Railway
 
 Next.js (Advanced Concepts), Backend Optimization, and Scalable Full Stack Architecture
 
+---
 
 💬 Let's Connect
 
